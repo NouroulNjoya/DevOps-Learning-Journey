@@ -1,4 +1,3 @@
-</> Markdown
 
 # Linux Administration
 
@@ -6,9 +5,20 @@
 
 Learn & master Linux system administration 
 
-## Lessons & Progress
+## Roadmap & Skills
 
-- User management
-- Permissions
-- Services
-- Bash Scripting
+DevOps-Learning-Journey
+│
+├── Linux
+├── Git-GitHub
+├── Bash-Scripting
+├── Docker
+├── Kubernetes
+├── Terraform
+├── Ansible
+├── Jenkins
+├── AWS
+├── Azure
+├── Monitoring
+├── Projects
+└── Certifications
