@@ -1,24 +1,23 @@
 
-# Linux Administration
+# Becoming DevOps & Cloud Engineer
 
 ## Objectif
 
-Learn & master Linux system administration 
+This Repo describes and decouments my journey to become a DevOps & Cloud Engineer
 
 ## Roadmap & Skills
 
 DevOps-Learning-Journey
-│
-├── Linux
-├── Git-GitHub
-├── Bash-Scripting
-├── Docker
-├── Kubernetes
-├── Terraform
-├── Ansible
-├── Jenkins
-├── AWS
-├── Azure
-├── Monitoring
-├── Projects
-└── Certifications
+
+- Linux & Bash Scripting
+- Networking 
+- Git-GitHub
+- Docker
+- Kubernetes
+- Terraform
+─ Ansible
+─ Jenkins
+─ Cloud (AWS/Azure)
+─ Monitoring
+─ Projects
+─ Certifications
