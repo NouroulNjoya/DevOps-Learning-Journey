@@ -1,2 +1,14 @@
-# DevOps-Learning-Journey
-This Respository describes &amp; documents my DevOps Engineer Learning path and journey
+</> Markdown
+
+# Linux Administration
+
+## Objectif
+
+Learn & master Linux system administration 
+
+## Lessons & Progress
+
+- User management
+- Permissions
+- Services
+- Bash Scripting
