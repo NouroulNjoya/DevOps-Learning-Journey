@@ -6,11 +6,12 @@ Learn & Master Linux system administration
 
 ### Lessons $ Progress
 
-├── user management
-├── permissions
-├── networking
-├── services
-├── logs
-├── cron-jobs
-├── shell-scripting
-└── troubleshooting 
+- navigation & file system
+─ user management
+─ permissions
+─ networking
+─ services
+─ logs
+─ cron-jobs
+─ shell-scripting
+─ troubleshooting
